@@ -17,6 +17,15 @@ Plug 'norcalli/nvim-colorizer.lua'
 "Intellisense"
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+"Nerd tree"
+Plug 'preservim/nerdtree'
+
+"Icons"
+Plug 'ryanoasis/vim-devicons'
+
+"Nerd commenter"
+Plug 'preservim/nerdcommenter'
+
 "COC"
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 

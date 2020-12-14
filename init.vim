@@ -7,6 +7,7 @@ source $HOME/.config/nvim/config.vim
 "Config"
 source $HOME/.config/nvim/plug-config/fzf.vim
 source $HOME/.config/nvim/plug-config/airline.vim
+source $HOME/.config/nvim/plug-config/nerd-commenter.vim
 
 "Other config
 source $HOME/.config/nvim/other-config/autocompletion.vim

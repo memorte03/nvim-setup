@@ -7,3 +7,8 @@ set numberwidth=5
 set shiftwidth=4
 set autoindent
 set smartindent
+
+set encoding=UTF-8
+
+"Nedrtree
+autocmd vimenter * NERDTree
