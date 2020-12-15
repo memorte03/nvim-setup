@@ -22,7 +22,7 @@ Just clone this repo to your nvim config location and run thsese commands:
 Navigating through suggestions
 
 ```code
-Ctrl J - scroll up
-Ctrl K - scroll down
+Ctrl J - scroll down
+Ctrl K - scroll up
 Tab - choose
 ```
